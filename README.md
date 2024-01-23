@@ -37,6 +37,7 @@ This tool has a total of 36 features and tons of dynamic sub-features! New ones 
 - Automatically create API ID and HASH!
 - Ban-Checker, check if your accounts are ready to be used!
 - Report any members, groups or channels you want!
+- MORE COMING SOON!
 >All tasks above can be done by selected accounts or all accounts!
 
 ## BUY HERE: https://shoppy.gg/product/YVdsCk6
@@ -57,9 +58,10 @@ For any questions, feel free to ask us on Telegram: @FullTGSupport
 9. Add random delays between each task!
 10. Increase your views with ease!
 11. 100% positive feedbacks from customers!
-12. Best All-In-1-Tool for Telegram!
-13. Easy to install and to use!
-14. Usable on all systems!
+12. We are implementing all features, which are being requested by our community!
+13. Best All-In-1-Tool for Telegram!
+14. Easy to install and to use!
+15. Usable on all systems!
 
 #### Please ⭐ the repo to support our project
 ![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937353033363838333935383633363535372f3937353035373130323039373734333937332f756e6b6e6f776e2e706e67](https://github.com/SM-Tools/-Telegram-Adder-Scraper-Members-NEW-FREE-2024/assets/157315721/fce54b7e-3b81-46bf-bcf2-2d3c93c3785f)
