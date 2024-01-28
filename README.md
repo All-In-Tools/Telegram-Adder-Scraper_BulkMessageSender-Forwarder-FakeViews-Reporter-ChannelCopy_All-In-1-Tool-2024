@@ -36,6 +36,7 @@ This tool has a total of 36 features and tons of dynamic sub-features! New ones 
 ![](https://github.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/blob/main/copy_channel.gif)
 - Automatically send an AFK-message to anyone who messages you!
 - Automatically join to any channels/groups!
+
 ![](https://github.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/blob/main/Joiner.gif)
 - Automatically leave any channels/groups!
 - Automatically increase the views of your posts without any accounts!
