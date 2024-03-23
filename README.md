@@ -7,7 +7,7 @@ FullTG is a tool for Telegram. Simple to install and easy to use. Updates, new f
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGSupport
-![](https://github.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/blob/main/V115.png?raw=true)
+[![](V115.png)]
 <img width="428" alt="V115" src="[((https://github.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/blob/main/V115.png?raw=true)](https://raw.githubusercontent.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/main/V115.png)">
 
 Show-Case-Group (+10k real targeted members added + sending message automatically every minute!): https://t.me/FullTGPremiumM
