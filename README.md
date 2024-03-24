@@ -8,7 +8,7 @@ VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGSupport
 ![V115.png](https://raw.githubusercontent.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/main/V115.png | width=428)
-
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 Show-Case-Group (+10k real targeted members added + sending message automatically every minute!): https://t.me/FullTGPremiumM
 ### What are the features?
