@@ -11,7 +11,7 @@ For any questions, feel free to ask us on Telegram: https://t.me/FullTGSupport
 <img src='V115.png' width='428'>
 
 ### What are the features?
-This tool has a total of 36 features and tons of dynamic sub-features! New ones will be implemented!
+This tool has a total of 40 features and tons of dynamic sub-features! New ones will be implemented!
 
 - Login with as many accounts as you want! (No Limits)
 ![](https://github.com/All-In-Tools/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2024/blob/main/login.gif)
