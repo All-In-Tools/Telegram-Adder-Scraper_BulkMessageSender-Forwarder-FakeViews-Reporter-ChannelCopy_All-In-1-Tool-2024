@@ -7,8 +7,8 @@ FullTG is a tool for Telegram. Simple to install and easy to use. Updates, new f
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGSupport
-[![](V115.png)]
-<img width="428" src="(V115.png)">
+![](V115.png | width=428)
+
 
 Show-Case-Group (+10k real targeted members added + sending message automatically every minute!): https://t.me/FullTGPremiumM
 ### What are the features?
