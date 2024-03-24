@@ -10,7 +10,6 @@ For any questions, feel free to ask us on Telegram: https://t.me/FullTGSupport
 
 <img src='V115.png' width='428'>
 
-Show-Case-Group (+10k real targeted members added + sending message automatically every minute!): https://t.me/FullTGPremiumM
 ### What are the features?
 This tool has a total of 36 features and tons of dynamic sub-features! New ones will be implemented!
 
